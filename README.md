@@ -1,1 +1,1 @@
-Manage the Pets from this Android App.
+Manage the your lovely Pets from this Android App.
